@@ -8,7 +8,7 @@
 
 ### Edit the following arrays to suit your workflow - values must be quoted and separated by newlines or spaces.
 
-DISK_GB_REQUIRED=30
+DISK_GB_REQUIRED=80
 
 PIP_PACKAGES=(
 
@@ -25,7 +25,8 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/16576"
     "https://civitai.com/api/download/models/88473"
-    "https://civitai.com/api/download/models/167774"
+    "https://civitai.com/api/download/models/94165"
+    "https://civitai.com/api/download/models/919063"
 )
 
 
