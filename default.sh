@@ -27,6 +27,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/16576"
     "https://civitai.com/api/download/models/88473"
     "https://civitai.com/api/download/models/94165"
+    "https://huggingface.co/artificialguybr/TshirtDesignRedmond-V2/blob/main/TShirtDesignRedmondV2-Tshirtdesign-TshirtDesignAF.safetensors"
 )
 
 
